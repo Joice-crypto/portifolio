@@ -9,5 +9,5 @@ O controle das tarefas desse projeto sera feito pelo GitHub
 
  :up: atualização 
 :package: nova funcionalidade
-:beatle: correção de bug
+: bug : correção de bug
 :page_facing_up: release
